@@ -1,6 +1,5 @@
 <a href="https://app.daily.dev/iSrFelipeS2i"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Andres Valencia lopez's Dev Card"/></a>
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
-### Hi there 👋
+
 
 <!--
 **SrFelipeS2/SrFelipeS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
